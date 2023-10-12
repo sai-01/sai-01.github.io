@@ -1,0 +1,23 @@
+main:
+
+  - affiliation: "University of Rochester (UR)"
+    # affiliation_short: UR
+    website: https://www.rochester.edu/
+    time: Aug. 2023 - Present
+    position: Ph.D. in Computer Science
+    advisors:
+      - name: Chenliang Xu
+        page: https://www.cs.rochester.edu/~cxu22/index.html
+    # notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/img/uofr-logo-shield.png
+
+  - affiliation: "Southern University of Science and Technology (SUSTech)"
+    # affiliation_short: SUSTech
+    website: https://www.sustech.edu.cn/en/
+    time: Aug. 2019 - Jun. 2023
+    position: B.Eng. in Intelligence Science and Technology
+    advisors:
+      - name: Feng Zheng
+        page: https://faculty.sustech.edu.cn/fengzheng/en
+    notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/img/sustech.png

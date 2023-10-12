@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <!-- <title>{{ site.title }} | {{ site.affiliation }}</title> -->
+    <title>{{ site.title }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,8 +54,11 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if site.edu_email %}
+        <email>{{ site.edu_email }}</email>
+        {% endif %}
+        {% if site.gmail %}
+        <email>{{ site.gmail }}</email>
         {% endif %}
 
         <br>

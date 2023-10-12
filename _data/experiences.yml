@@ -8,7 +8,7 @@ main:
     mentors:
       - name: Qin Lin
         # page: https://www.cs.rochester.edu/~cxu22/index.html
-      - name: Wenhaojiang
+      - name: Wenhao Jiang
         page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
     # notes: Excellent Graduate for Exceptional Performance
     image: ./assets/img/tencent.png

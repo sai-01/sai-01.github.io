@@ -304,6 +304,12 @@
               }
               z.style.display = "block";
               mb_flag = 1;
+
+              var event = new MouseEvent('click', {
+                  'bubbles': true,
+                  'cancelable': true
+              });
+              z.dispatchEvent(event);
           }
       }
 

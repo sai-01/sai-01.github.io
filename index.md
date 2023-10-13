@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+<div id="home"></div>
 
 ## About Me
 

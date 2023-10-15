@@ -2,7 +2,7 @@ main:
 
   - affiliation: "Tencent, Data Platform"
     # affiliation_short: UR
-    website: https://www.tencent.com/en-us/about.html
+    website: https://www.tencent.com/
     time: Sept. 2021 - Aug. 2022
     position: ML Research Intern
     mentors:

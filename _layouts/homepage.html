@@ -36,6 +36,9 @@
     {% endif %}
 
     <style>
+    .align-subtle {
+        vertical-align: +0.1em;
+    }
     #back-to-top {
         background: #fff;
         /* -webkit-border-radius: 50%; */
@@ -92,6 +95,19 @@
         margin: 0;
       }
 
+    .topnav::before {
+        content: ''; /* 必须为::before提供内容 */
+        position: absolute; 
+        left: 0;
+        top: 50%; /* 使三角形垂直居中 */
+        transform: translateY(-50%); /* 垂直居中的微调 */
+
+        /* 使用边框创建三角形 */
+        border-top: 20px solid transparent; /* 调整数值以改变三角形的大小 */
+        border-bottom: 20px solid transparent; /* 调整数值以改变三角形的大小 */
+        border-left: 20px solid #fff; /* 与.topnav的背景颜色相同 */
+    }
+
     .topnav a:hover {
       background-color: deeppink
     }
@@ -112,7 +128,7 @@
         float: right;
         right: 0;
         top: 0;
-        margin-right: 5%;
+        margin-right: 0;
       }
 
     
@@ -123,9 +139,7 @@
   <body>
     <div class="topnav">
       <a href="/" id="welcome_info" class="welcome">Welcome to my Homepage ~</a>
-      <a class="icon" href="javascript:void(0);" id="myMenu" onclick="memu_func()">
-        <i class="fa fa-bars"></i> Menu
-      </a>
+      <a class="icon" href="javascript:void(0);" id="myMenu" onclick="memu_func()"><i class="fa fa-bars"></i></a>
       <div id="myLinks" onclick="link_func()">
         <a class="normal" href="#" data-target="misc">Misc</a>
         <a class="normal" href="#" data-target="services">Services</a> 
@@ -148,14 +162,11 @@
 
         <h1>{{ site.title }}</h1>
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        {% if site.position and site.affiliation %}
+        <position style="font-size:1.10rem;">{{ site.position }} <span class="align-subtle">@</span> <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a></position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
-        {% endif %}
+        
         {% if site.edu_email %}
         <email>{{ site.edu_email }}</email>
         {% endif %}
@@ -259,7 +270,6 @@
           }
 
       }
-
 
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -17,7 +17,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="affiliation"><a href="{{ link.website }}">{{ link.affiliation }}</a></div>
-      <div class="time">{{ link.time }}</div>
+      <div class="time">{{ link.base }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ link.time }}</div>
       <div class="position"><em>{{ link.position }}</em></div>
       {% if link.mentors %} 
       <div class="mentors">

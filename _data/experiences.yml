@@ -1,7 +1,8 @@
 main:
 
-  - affiliation: "Tencent, Data Platform"
+  - affiliation: "Tencent"
     # affiliation_short: UR
+    base: Shenzhen, CN
     website: https://www.tencent.com/
     time: Sept. 2021 - Aug. 2022
     position: ML Research Intern
@@ -14,6 +15,7 @@ main:
     image: ./assets/img/tencent.png
 
   - affiliation: "SUSTech VIP Lab"
+    base: Shenzhen, CN
     # affiliation_short: SUSTech
     website: https://zhengfenglab.com/
     time: Aug. 2022 - Jul. 2023

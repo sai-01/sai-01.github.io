@@ -12,7 +12,7 @@
                 <li>{{ news_item.news | markdownify }}</li>
             {% endfor %}
         </div>
-        <li><a href="#" id="toggleNews" style="color:deeppink;">Read More</a></li>
+        <li><a href="#" id="toggleNews" style="color:deeppink;">Show More</a></li>
     </ul>
 </div>
 
@@ -25,10 +25,10 @@ document.getElementById("toggleNews").addEventListener("click", function(e) {
 
     if (hiddenNews.style.display === "none") {
         hiddenNews.style.display = "block";
-        e.target.innerHTML = "Read Less";
+        e.target.innerHTML = "Show Less";
     } else {
         hiddenNews.style.display = "none";
-        e.target.innerHTML = "Read More";
+        e.target.innerHTML = "Show More";
     }
 });
 document.addEventListener("DOMContentLoaded", function() {

@@ -38,8 +38,8 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
-      {% if link.promotion %} 
-      <a href="{{ link.promotion }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Promotion</a>
+      {% if link.news %} 
+      <a href="{{ link.news }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:deeppink">{{ link.notes }}</i></strong>

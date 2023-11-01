@@ -21,7 +21,7 @@ main:
     page: https://github.com/ttengwang/caption-anything
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://dblp.org/rec/journals/corr/abs-2305-02677.html?view=bibtex
-    promotion: https://mp.weixin.qq.com/s/9yf8bRwyUfdryfSL2ntmJg
+    news: https://mp.weixin.qq.com/s/9yf8bRwyUfdryfSL2ntmJg
     # notes: Oral Presentation
     image: ./assets/gif/qingming.gif
 
@@ -45,7 +45,7 @@ main:
     dataset: https://github.com/yunlong10/ads-1k
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    promotion: https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA
+    news: https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA
     bibtex: https://dblp.org/rec/conf/accv/TangXWLLZ22.html?view=bibtex
     # notes: Oral Presentation
     image: ./assets/img/m_san.png

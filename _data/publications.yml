@@ -4,11 +4,11 @@ main:
     # conference_short: Preprint
     conference: Preprint arXiv 2023.
     abs: https://arxiv.org/abs/2312.17432
-    pdf: https://arxiv.org/pdf/2312.17432.pdf
+    pdf: https://arxiv.org//2312.17432.pdf
     page: https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding
-    # bibtex: https://dblp.org/rec/journals/corr/abs-2306-10354.html?view=bibtexs
-    # notes: Oral Presentation
+    bibtex: ./assets/bibtex/vidllmsurvey.txt
     image: ./assets/img/vidllm_survey.png
+    # notes:  Updating
 
   - title: "LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning"
     authors: <strong><b>Yunlong Tang</b></strong>, Jinrui Zhang, Xiangchen Wang, Teng Wang, Feng Zheng

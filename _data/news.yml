@@ -1,11 +1,11 @@
 main:
-
+  - news: "**[Dec. 2023]** Released a survey for Video Understanding with LLMs ([*PDF*](https://arxiv.org/abs/2312.17432), [*GitHub*](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding))."
   - news: "**[Aug. 2023]** Officially joined in the [Chenliang Xu's Group](https://www.cs.rochester.edu/~cxu22/g/index.html) at UR as a Ph.D. student."
   - news: "**[Jul. 2023]** One paper accepted to International Computer Music Conference (ICMC) 2023."
   - news: "**[Jun. 2023]** Graduated from SUSTech, obtained my bachelor's degree and the honor of Excellent Graduate for Exceptional Performance."
   - news: "**[Jun. 2023]** Our team won the **first place** in [LOVEU (**Lo**ng-form **V**id**e**o **U**nderstanding) Challenge](https://sites.google.com/view/loveucvpr23/home) at CVPR'23 Workshop."
   - news: "**[May. 2023]** Successfully defended my undergraduate thesis titled [*Language-Guided Video Cover Generation*](https://github.com/yunlong10/video-cover-gen), which has been awarded the Excellent Undergraduate Thesis!"
-  - news: "**[Apr. 2023]** Our project Caption Anything has been released! Welcome to try our [demo](https://huggingface.co/spaces/TencentARC/Caption-Anything) and star our [github repo](https://github.com/ttengwang/caption-anything)!"
+  - news: "**[Apr. 2023]** Our project Caption Anything has been released! Welcome to try our [demo](https://huggingface.co/spaces/TencentARC/Caption-Anything) and star our [GitHub repo](https://github.com/ttengwang/caption-anything)!"
   - news: "**[Feb. 2023]** Thrilled to announce I'll be starting my Ph.D. in Computer Science at the University of Rochester from Fall 2023, working with [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)!"
   - news: "**[Dec. 2022]** I set out for the Galaxy Macau, China to attend ACCV'22."
   - news: "**[Sept. 2022]** One paper about multimodal Ad video editing has been accepted to Asian Conference on Computer Vision (ACCV) 2022."

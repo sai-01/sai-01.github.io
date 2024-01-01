@@ -1,4 +1,14 @@
 main:
+  - title: "Video Understanding with Large Language Models: A Survey"
+    authors: <strong><b>Yunlong Tang*</b></strong>, Jing Bi*, Siting Xu*, Luchuan Song, Susan Liang, Teng Wang, Daoan Zhang, Jie An, Jingyang Lin, Rongyi Zhu, Ali Vosoughi, Chao Huang, Zeliang Zhang, Feng Zheng, Jianguo Zhang, Ping Luo, Jiebo Luo, Chenliang Xu
+    # conference_short: Preprint
+    conference: Preprint arXiv 2023.
+    abs: https://arxiv.org/abs/2312.17432
+    pdf: https://arxiv.org/pdf/2312.17432.pdf
+    page: https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding
+    # bibtex: https://dblp.org/rec/journals/corr/abs-2306-10354.html?view=bibtexs
+    # notes: Oral Presentation
+    image: ./assets/img/vidllm_survey.png
 
   - title: "LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning"
     authors: <strong><b>Yunlong Tang</b></strong>, Jinrui Zhang, Xiangchen Wang, Teng Wang, Feng Zheng

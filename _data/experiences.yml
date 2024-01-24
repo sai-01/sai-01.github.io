@@ -1,19 +1,5 @@
 main:
 
-  - affiliation: "Tencent"
-    # affiliation_short: UR
-    base: Shenzhen, CN
-    website: https://www.tencent.com/
-    time: Sept. 2021 - Aug. 2022
-    position: ML Research Intern
-    mentors:
-      - name: Qin Lin
-        # page: https://www.cs.rochester.edu/~cxu22/index.html
-      - name: Wenhao Jiang
-        page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
-    # notes: Excellent Graduate for Exceptional Performance
-    image: ./assets/img/tencent.png
-
   - affiliation: "SUSTech VIP Lab"
     base: Shenzhen, CN
     # affiliation_short: SUSTech
@@ -25,3 +11,18 @@ main:
         page: https://faculty.sustech.edu.cn/fengzheng/en
     # notes: Excellent Graduate for Exceptional Performance
     image: ./assets/img/sustech_long.png
+
+  - affiliation: "Tencent"
+    # affiliation_short: UR
+    base: Shenzhen, CN
+    website: https://www.tencent.com/
+    time: Sept. 2021 - Aug. 2022
+    position: Research Intern
+    mentors:
+      - name: Qin Lin
+        # page: https://www.cs.rochester.edu/~cxu22/index.html
+      - name: Wenhao Jiang
+        page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
+    # notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/img/tencent.png
+

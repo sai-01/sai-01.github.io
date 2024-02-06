@@ -1,7 +1,7 @@
 main:
 
   - affiliation: "SUSTech VIP Lab"
-    base: Shenzhen, CN
+    base: Shenzhen, China
     # affiliation_short: SUSTech
     website: https://zhengfenglab.com/
     time: Aug. 2022 - Jul. 2023
@@ -14,7 +14,7 @@ main:
 
   - affiliation: "Tencent"
     # affiliation_short: UR
-    base: Shenzhen, CN
+    base: Shenzhen, China
     website: https://www.tencent.com/
     time: Sept. 2021 - Aug. 2022
     position: Research Intern

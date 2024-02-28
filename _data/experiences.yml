@@ -12,17 +12,17 @@ main:
   #   # notes: Excellent Graduate for Exceptional Performance
   #   image: ./assets/img/sustech_long.png
 
-  # - affiliation: "Tencent"
-  #   # affiliation_short: UR
-  #   base: Shenzhen, China
-  #   website: https://www.tencent.com/
-  #   time: Sept. 2021 - Aug. 2022
-  #   position: Research Intern
+  - affiliation: "PricewaterhouseCoopers"
+    # affiliation_short: UR
+    base: Shenzhen, China
+    website: https://www.pwc.com/ 
+    time: Jan. 2022 - Mar. 2023
+    position: Tax Technology Intern
   #   mentors:
   #     - name: Qin Lin
   #       # page: https://www.cs.rochester.edu/~cxu22/index.html
   #     - name: Wenhao Jiang
   #       page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
   #   # notes: Excellent Graduate for Exceptional Performance
-  #   image: ./assets/img/tencent.png
+    image: ./assets/img/pwc.png
 

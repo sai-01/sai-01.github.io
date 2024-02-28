@@ -27,7 +27,7 @@ twitter:
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile.jpg
-favicon: ./assets/img/icon.jpg
+favicon: ./assets/img/profile.jpg
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote

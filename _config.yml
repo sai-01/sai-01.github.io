@@ -1,3 +1,9 @@
+deploy:
+  type: git
+  repo: https://sai-01.github.io/ # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: main
+  message: [message]
+
 # Basic Information 
 title: Siting Xu
 position: Software Engineer

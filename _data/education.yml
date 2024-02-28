@@ -12,14 +12,14 @@ main:
   #   # notes: Excellent Graduate for Exceptional Performance
   #   image: ./assets/img/uofr-logo-shield.png
 
-  # - affiliation: "Southern University of Science and Technology (SUSTech)"
-  #   base: Shenzhen, China
-  #   # affiliation_short: SUSTech
-  #   website: https://www.sustech.edu.cn/en/
-  #   time: Aug. 2019 - Jun. 2023
-  #   position: B.Eng. in Intelligence Science and Technology
-  #   advisors:
-  #     - name: Feng Zheng
-  #       page: https://faculty.sustech.edu.cn/fengzheng/en
-  #   notes: Excellent Graduate for Exceptional Performance
-  #   image: ./assets/img/sustech.png
+  - affiliation: "Southern University of Science and Technology (SUSTech)"
+    base: Shenzhen, China
+    # affiliation_short: SUSTech
+    website: https://www.sustech.edu.cn/en/
+    time: Aug. 2019 - Jun. 2023
+    position: B.Eng. in Computer Science and Technology
+    # advisors:
+    #   - name: Feng Zheng
+    #     page: https://faculty.sustech.edu.cn/fengzheng/en
+    notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/img/sustech.png

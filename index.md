@@ -5,10 +5,10 @@ layout: homepage
 
 ## About Me
 
-I'm Yunlong Tang (<a id="about-me" href='https://translate.google.com/?sl=auto&tl=en&text=%E5%94%90%E4%BA%91%E9%BE%99'><i class="fa fa-volume-up" aria-hidden="true" style="color:deeppink; font-size:12px;"></i></a>), a first-year Ph.D. student in Computer Science at  [University of Rochester](https://www.rochester.edu/) (UR), advised by [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html). I obtained B.Eng. (2019-2023) in  Intelligence Science & Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), advised by [Prof. Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ). 
-I was a research intern at [Tencent](https://www.tencent.com/) Data Platform, worked with Ms. Qin Lin and [Dr. Wenhao Jiang](https://scholar.google.com/citations?user=rAlT64IAAAAJ).
+<!-- I'm Yunlong Tang (<a id="about-me" href='https://translate.google.com/?sl=auto&tl=en&text=%E5%94%90%E4%BA%91%E9%BE%99'><i class="fa fa-volume-up" aria-hidden="true" style="color:deeppink; font-size:12px;"></i></a>), a first-year Ph.D. student in Computer Science at  [University of Rochester](https://www.rochester.edu/) (UR), advised by [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html). I obtained B.Eng. (2019-2023) in  Intelligence Science & Technology from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), advised by [Prof. Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ). 
+I was a research intern at [Tencent](https://www.tencent.com/) Data Platform, worked with Ms. Qin Lin and [Dr. Wenhao Jiang](https://scholar.google.com/citations?user=rAlT64IAAAAJ). -->
 
-My recent research mainly lies in **Multimodal Learning** and **Video Understanding**. I also have a keen interest in AI-Agents. <span style="color:deeppink;">I am actively looking for any collaboration. Please feel free to contact me!</span>
+<!-- My recent research mainly lies in **Multimodal Learning** and **Video Understanding**. I also have a keen interest in AI-Agents. <span style="color:deeppink;">I am actively looking for any collaboration. Please feel free to contact me!</span> -->
 <!-- I am actively seeking research internships for Summer 2024. Please feel free to message me if you are interested. -->
 <!-- ## Research Interests -->
 

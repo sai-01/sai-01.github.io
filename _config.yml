@@ -1,12 +1,12 @@
 # Basic Information 
-title: Yunlong (Yolo) Tang
-position: Ph.D. Student
+title: Siting Xu
+position: Software Engineer
 # affiliation_0: Department of Computer Science
 # affiliation_0_link: https://www.cs.rochester.edu/
-affiliation: UR CS
-affiliation_link: https://www.cs.rochester.edu/
-edu_email: yunlong.tang AT rochester.edu
-gmail: yunlong.yolo.tang AT gmail.com
+affiliation: BOC
+affiliation_link: 
+edu_email: 
+gmail: 
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -16,18 +16,17 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?hl=en&user=xf1rCgoAAAAJ
-semantic_scholar: https://www.semanticscholar.org/author/Yunlong-Tang/2119309562
-dblp: https://dblp.org/pid/174/7086-2.html
-orcid: https://orcid.org/0000-0003-2796-1787
-cv_link: assets/files/CV_YunlongTang.pdf
-github_link: https://github.com/yunlong10/
-linkedin: https://www.linkedin.com/in/yunlong-yolo-tang/
-twitter: https://twitter.com/YunlongTang6/
+google_scholar: 
+semantic_scholar: 
+dblp: 
+cv_link: 
+github_link: https://github.com/sai-01
+linkedin: 
+twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile2.jpg
+avatar: ./assets/img/profile.jpg
 favicon: ./assets/img/icon.jpg
 favicon_dark: ./assets/img/favicon-dark.png
 

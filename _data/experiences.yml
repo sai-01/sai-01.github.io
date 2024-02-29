@@ -1,18 +1,12 @@
 main:
 
-  - affiliation: "Bank of China"
-    # affiliation_short: UR
-    base: Shenzhen, China
-    website: https://www.bankofchina.com/
-    time: Jul. 2023 - current
-    position: Software Engineer
-  #   mentors:
-  #     - name: Qin Lin
-  #       # page: https://www.cs.rochester.edu/~cxu22/index.html
-  #     - name: Wenhao Jiang
-  #       page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
-  #   # notes: Excellent Graduate for Exceptional Performance
-    image: ./assets/img/boc.png
+  # - affiliation: "Bank of China"
+  #   # affiliation_short: UR
+  #   base: Shenzhen, China
+  #   website: https://www.bankofchina.com/
+  #   time: Jul. 2023 - current
+  #   position: Software Engineer
+  #   image: ./assets/img/boc.png
 
   - affiliation: "PricewaterhouseCoopers"
     # affiliation_short: UR

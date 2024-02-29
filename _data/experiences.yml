@@ -1,16 +1,18 @@
 main:
 
-  # - affiliation: "SUSTech VIP Lab"
-  #   base: Shenzhen, China
-  #   # affiliation_short: SUSTech
-  #   website: https://zhengfenglab.com/
-  #   time: Aug. 2022 - Jul. 2023
-  #   position: Undergraduate Student Researcher
-  #   advisors:
-  #     - name: Feng Zheng
-  #       page: https://faculty.sustech.edu.cn/fengzheng/en
+  - affiliation: "Bank of China"
+    # affiliation_short: UR
+    base: Shenzhen, China
+    website: https://www.pwc.com/ 
+    time: Jul. 2023 - current
+    position: Software Engineer
+  #   mentors:
+  #     - name: Qin Lin
+  #       # page: https://www.cs.rochester.edu/~cxu22/index.html
+  #     - name: Wenhao Jiang
+  #       page: https://scholar.google.com/citations?user=rAlT64IAAAAJ&hl=en
   #   # notes: Excellent Graduate for Exceptional Performance
-  #   image: ./assets/img/sustech_long.png
+    image: ./assets/img/boc.png
 
   - affiliation: "PricewaterhouseCoopers"
     # affiliation_short: UR

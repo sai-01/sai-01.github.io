@@ -5,6 +5,7 @@
 <!-- - My nickname, *YOLO*, is a soramimi/mondegreen for *Yunlong*.
 - I'm a Tech-otaku, ACGN enthusiast, J-Pop fan, and <a href="https://www.eaccwiki.com/wiki/Philosophy_of_e/acc" target="_blank">e/acc</a> proponent.
 - I have a certain artistic foundation (10+ years of experience in painting). -->
+- A HUGE fan for Electronic Music, favorite musician is Porter Robinson!🎵
 
 <h4 style="margin:0 10px 0;">Visitors Map</h4>
 <br>

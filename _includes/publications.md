@@ -42,7 +42,7 @@
       <a href="{{ link.news }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:deeppink">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#e3939e">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}

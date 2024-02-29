@@ -12,7 +12,7 @@
                 <li>{{ news_item.news | markdownify }}</li>
             {% endfor %}
         </div>
-        <li><a href="#" id="toggleNews" style="color:deeppink;">Show More</a></li>
+        <li><a href="#" id="toggleNews" style="color:#e3939e;">Show More</a></li>
     </ul>
 </div>
 

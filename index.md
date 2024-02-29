@@ -16,7 +16,7 @@ I was a research intern at [Tencent](https://www.tencent.com/) Data Platform, wo
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
 {% include_relative _includes/publications.md %}
 
@@ -26,7 +26,7 @@ I was a research intern at [Tencent](https://www.tencent.com/) Data Platform, wo
 
 {% include_relative _includes/awards.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 {% include_relative _includes/misc.md %}
 

@@ -3,10 +3,10 @@ title: Sai Xu
 position: Software Engineer
 # affiliation_0: Department of Computer Science
 # affiliation_0_link: https://www.cs.rochester.edu/
-affiliation: BOC
+affiliation: 
 affiliation_link: 
-edu_email: 
-gmail: 
+edu_email: xust2019@mail.sustech.edu.cn
+gmail: sitingxu01@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -16,7 +16,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: 
+google_scholar: https://scholar.google.com/citations?user=rPogvfsAAAAJ&hl=en
 semantic_scholar: 
 dblp: 
 cv_link: 
@@ -27,7 +27,7 @@ twitter:
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile.jpg
-favicon: ./assets/img/profile.jpg
+favicon: ./assets/img/icon.jpg
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote

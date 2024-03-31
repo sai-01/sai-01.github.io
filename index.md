@@ -26,7 +26,7 @@ I was a research intern at [Tencent](https://www.tencent.com/) Data Platform, wo
 
 {% include_relative _includes/awards.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 {% include_relative _includes/misc.md %}
 

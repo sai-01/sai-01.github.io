@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+<!-- <h4 style="margin:0 10px 0;">Conference Reviewer</h4> -->
 
 <ul style="margin:0 0 5px;">
   <li>Coming soon ...</li>
@@ -9,7 +9,7 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+<!-- <h4 style="margin:0 10px 0;">Journal Reviewer</h4> -->
 
 <ul style="margin:0 0 20px;">
   <!-- <li>IEEE Transactions on Multimedia (TMM)</li> -->
